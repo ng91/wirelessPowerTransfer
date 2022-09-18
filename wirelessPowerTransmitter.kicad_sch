@@ -233,10 +233,10 @@
       (reference "U3") (unit 1) (value "STM32F103RFTx") (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
     )
     (path "/d4f42029-ba39-4c0d-bbc3-703e3c5d3748/4f3aae6e-3da6-4a3f-b4ff-fd451fe20041"
-      (reference "U4") (unit 1) (value "COS4426") (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm")
+      (reference "U4") (unit 1) (value "COS4426") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/d4f42029-ba39-4c0d-bbc3-703e3c5d3748/8f55a4bf-eb13-4275-91c7-bb438a12f953"
-      (reference "U5") (unit 1) (value "COS4426") (footprint "Package_SO:SO-8_3.9x4.9mm_P1.27mm")
+      (reference "U5") (unit 1) (value "COS4426") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
   )
 )
